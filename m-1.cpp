@@ -2,7 +2,7 @@
 
 int main()
 {
-   std::cout<<"hello my name is meet paneliya";
+   std::cout<<"hello my name is mit paneliya";
 
    return 0;
 }
